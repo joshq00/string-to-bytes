@@ -1,0 +1,24 @@
+{
+  "name": "string-to-bytes",
+  "version": "0.1.0",
+  "description": "Convert a string to an array of bytes",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/joshq00/string-to-bytes.git"
+  },
+  "keywords": [
+    "string",
+    "byte",
+    "convert"
+  ],
+  "author": "Josh Quintana <josh.d.quintana@gmail.com> (http://joshq00.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshq00/string-to-bytes/issues"
+  },
+  "homepage": "https://github.com/joshq00/string-to-bytes#readme"
+}
